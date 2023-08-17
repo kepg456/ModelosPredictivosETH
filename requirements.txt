@@ -3,9 +3,5 @@ scipy
 pandas
 yfinance
 sklearn
-sklearn.metrics 
 tensorflow
-tensorflow.keras.models
-tensorflow.keras.layers
-tensorflow.keras.preprocessing.sequence
 warnings
