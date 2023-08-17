@@ -4,4 +4,3 @@ pandas
 yfinance
 sklearn
 tensorflow
-warnings
