@@ -1,12 +1,7 @@
 streamlit
 scipy
+matplotlib
 pandas
-matplotlib.pyplot
 yfinance
-sklearn
-sklearn.metrics 
+scikit-learn
 tensorflow
-tensorflow.keras.models
-tensorflow.keras.layers
-tensorflow.keras.preprocessing.sequence
-warnings
